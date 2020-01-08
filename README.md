@@ -24,15 +24,15 @@ Caso você chegue no nível necessário para trabalhar na **GC**, você pode se 
 
 Com essa meta estabelecida, temos uma lista de passos à serem seguidos. Bora lá? 😼
 
-### 1. Investir pesado em conhecimentos de base técnica 👩‍💻👨‍💻
+### 1. Aprimorar seu Inglês 👩‍🏫👨‍🏫
 
-O fator mais importante e decisivo em uma pessoa desenvolvedora foda é seu conhecimento base. Em diversos momentos você será testada(o) por coisas que não tem como saber no momento. O que vai te guiar durante esse caminho serão suas horas gastas aprimorando o básico.
-
-### 2. Aprimorar seu Inglês 👩‍🏫👨‍🏫
-
-Fique tranquila(o) 🤙
+Fique de boas 🤙
 
 Inglês é algo importante, mas temos vários meios de aprimorá-lo hoje em dia. Apenas tenha em mente que para poder dar seu melhor, essa é uma _skill_ importante.
+
+### 2. Investir pesado em conhecimentos de base técnica 👩‍💻👨‍💻
+
+O fator mais importante e decisivo em uma pessoa desenvolvedora foda é seu conhecimento base. Em diversos momentos você será testada(o) por coisas que não tem como saber no momento. O que vai te guiar durante esse caminho serão suas horas gastas aprimorando o básico.
 
 ### 3. Praticar uma mentalidade _Open Source_ 🌎
 
@@ -81,8 +81,6 @@ Assim que ~~os astros se alinharem~~ nosso _roadmap_ estiver pronto iremos te in
 
 - [Angelino Pires 🤙](https://www.linkedin.com/in/angelinopires/)
 
-
 ## Licença
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />Esta obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 3.0</a>.
-
