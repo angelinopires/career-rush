@@ -1,4 +1,4 @@
-# Seja bem-vinda(o) ao primeiro módulo do Carrer Rush 😎
+# Seja bem-vinda(o) ao primeiro módulo do Career Rush 😎
 
 Este módulo é o mais importante da saga, ele irá te preparar para os desafios que você vai encontrar na sua carreira. 
 
