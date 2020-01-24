@@ -71,11 +71,11 @@ Estamos te dando o caminho e as ferramentas, e é claro que estaremos com você 
 
 ## Como participar <a name="participar"></a>
 
-**TBD**
+Você pode começar entrando [aqui](http://bit.ly/38CjItc).
 
 ## 🤔 Qual o próximo passo? <a name="proximospassos"></a>
 
-Assim que ~~os astros se alinharem~~ nosso _roadmap_ estiver pronto iremos te informar do que deve ser feito. Fique por dentro 🤟.
+Estou reunindo conteúdo e produzindo insumos, em breve você terá notícias. Fique por dentro 🤟.
 
 ## Responsáveis pelo projeto <a name="responsaveis"></a>
 
