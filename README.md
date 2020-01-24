@@ -71,7 +71,7 @@ Estamos te dando o caminho e as ferramentas, e é claro que estaremos com você 
 
 ## Como participar <a name="participar"></a>
 
-Você pode começar entrando [aqui](http://bit.ly/38CjItc).
+Você pode começar entrando [aqui](http://bit.ly/2TQZMig).
 
 ## 🤔 Qual o próximo passo? <a name="proximospassos"></a>
 
