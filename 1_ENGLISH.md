@@ -1,18 +1,16 @@
-# Preparação
-
-## Seja bem-vinda(o) ao primeiro módulo do Carrer Rush 😎
+# Seja bem-vinda(o) ao primeiro módulo do Carrer Rush 😎
 
 Este módulo é o mais importante da saga, ele irá te preparar para os desafios que você vai encontrar na sua carreira. 
 
 Gostou desse conteúdo? Temos um grupo privado especialmente para pessoas como você que estão engajadas em construir sua carreira.
 
-Quer saber mais? Entre em contato comigo via [LinkedIn](linkedin.com/in/angelinopires) e irei te explicar melhor 😉.
+Quer saber mais? Entre em contato comigo via [LinkedIn](linkedin.com/in/angelinopires) e irei te explicar melhor 😉
 
 **Are you ready?**
 
 ## 📝 Índice 
 - [Inglês, aprendendo para aprender](#ingles)
-    - [1.1 Básico](#prerequisites)
+    - [1.1 Básico](#basico)
         - [1.1.1 Duolingo](#duolingo)
         - [1.1.2 Teacher Paulo](#teacherpaulo)
     - [1.2 Intermediário](#intermediario)
@@ -26,7 +24,7 @@ Quer saber mais? Entre em contato comigo via [LinkedIn](linkedin.com/in/angelino
 
 
 ## 1. Inglês, aprendendo para aprender 👩‍🏫👨‍🏫 <a name="ingles"></a>
----
+
 Assim como nos jogos de RPG, existem aquelas habilidades básicas abrem ramificações na sua árvore de talentos, e na vida real não poderia ser diferente.
 
 Quanto mais você aprende inglês, mais tipos de conteúdos diferentes você terá a oportunidade de consumir. Como por exemplo:
@@ -77,7 +75,7 @@ Seu objetivo durante o Intermediário será: Aprimorar seu **reading & grammar**
 #### 1.2.1 Faça o que você gosta, mas em inglês <a name="vocegosta"></a>
 
 | Preço | Desafio | Duração 
-| :-----:|:-----:|:----------------------------:|:-------: |
+|:-----:|:----------------------------:|:-------: |
 | Free 🤑 | Consumir conteúdos em inglês | ∞ |
 
 Você provavelmente consome conteúdos dos mais diversos lugares, e isso vai te ajudar nessa fase. Meu desafio pra você é: **ter cada vez mais contato com a língua inglesa** 🗣️ 
@@ -93,7 +91,7 @@ Animes, músicas, jogos ou qualquer outro entretenimento, você **deve** consumi
 #### 1.2.2 Capitão: vamos submergir! <a name="submergir"></a>
 
 | Preço | Desafio | Duração 
-| :-----:|:-----:|:----------------------------:|:-------: |
+|:-----:|:----------------------------:|:-------: |
 | Free 🤑 | Mudar o idioma de tudo que você usa no seu cotidiano | ∞ |
 
 Você vai submergir mais ainda em seu aprendizado. Irá trocar as coisas mais comuns de seu cotidiano para o inglês.
@@ -129,8 +127,8 @@ Você pode optar por assistir os vídeos com legenda em inglês. Mas nada de por
 
 #### 1.3.2 Legenda? 😂👌 <a name="legenda"></a>
 Preço | Desafio | Quantidade 
-| :-----:|:-----:|:----------------------------:|:-------: |
- Free 🤑 | Assistir seriados em inglês sem legenda | 1 Temporada |
+|:-----:|:----------------------------:|:-------: |
+Free 🤑 | Assistir seriados em inglês sem legenda | 1 Temporada |
 
  ~~A mamata acabou, talkey?~~ 👺
 
