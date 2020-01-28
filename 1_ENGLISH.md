@@ -4,7 +4,7 @@ Este módulo é o mais importante da saga, ele irá te preparar para os desafios
 
 Gostou desse conteúdo? Temos um grupo privado especialmente para pessoas como você que estão engajadas em construir sua carreira.
 
-Quer saber mais? Entre em contato comigo via [LinkedIn](linkedin.com/in/angelinopires) e irei te explicar melhor 😉
+Quer saber mais? Entre em contato comigo via [LinkedIn](https://linkedin.com/in/angelinopires) e irei te explicar melhor 😉
 
 **Are you ready?**
 
