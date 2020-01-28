@@ -51,7 +51,7 @@ Seu objetivo durante o básico será: Treinar seu **reading** & **grammar**.
 
 #### 1.1.1 Duolingo <a name="duolingo"></a>
 
-| Link | Preço | Desafio | Duração 
+| Link | Preço | Desafio | Duracao
 | :-----:|:-----:|:----------------------------:|:-------: |
 | [👀](https://www.duolingo.com/) | Free 🤑 | Utilizar o App todos os dias | 30 dias |
 
