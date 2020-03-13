@@ -1,37 +1,54 @@
 [WORKING IN PROGRESS]
-# Módulo de conhecimentos de base técnica
+# Base Técnica - O início da jornada
 
-Eaaaai, como foi no último módulo? Aposto que foi *easy peasy*!
+TODO: pensar em identidade de gênero para se referir a pessoa leitora. <br>
+TODO: revisar tabelas e corrigir recompensas. <br>
+TODO: adicionar linux e terminal. <br>
+TODO: adicionar git. <br>
 
-Imagino que você deve estar ansiosa(o) pelo que vem agora...
+Eaaaai **pessoa DEV,** o que achou do último módulo? Aposto que foi *easy peasy*!
 
-// Fazer uma intro de módulo melhor
+Imagino que você já deve estar ansiosa(o) pelo próximo passo, não é? 👀
 
-**Let's go!**
+Antes de prosseguir, quero que reflita por alguns minutos em como foi sua jornada até então.
+
+Pode parecer que você não fez nada demais, ou até que não fez nada. Mas isso não é verdade.
+
+Todo viajante sabe como é importante se preprar antes de começar qualquer viagem. Conhecer a região, saber das características do clima, relevo, fauna e flora. Na sua vida profissional não poderia ser diferente. 🗺️
+
+Enquanto viaja pelas bosques desse módulo, gostaria que imaginasse o início da sua jornada, como se estivesse se preparando para viajar ao redor do mundo. 🌎
+
+Pegou sua mochila? Então bora lá, sem enrolar! 😁
+
+> "Qual é a ÚNICA Coisa que posso fazer de modo que, ao fazê-la, o restante se torne mais fácil ou desnecessário?”. Gary Keller - A Única Coisa.
 
 ## 📝 Índice
+- [2. Base técnica - O início da sua jornada Jedi ⚔️](#base)
+    - [2.1 Uma pequena parada antes de prosseguir a viagem](#dicas)
+        - [2.1.1 Dev.to](#devto)
+    - [2.2 Algoritmos e Lógica de Programação](#logica)
+        - [2.2.1 FreeCodeCamp](#freecodecamp)
+        - [2.2.2 Gustavo Guanabara](#guanabara)
+    - [2.3 Git e a mágica do versionamento ✨🧞‍](#git)
 
-
-
-
-## 2. <a href="#">Base técnica - O início da sua jornada Jedi ⚔️</a>
+## 2. <a href="#base">Base técnica - O início da sua jornada Jedi ⚔️</a>
 
 Neste módulo você irá aprender os conceitos mais **fodas**  da área de tecnologia. 🖥️
 
 Vai pereceber que aquelas telas pretas cheias de letras e números não são tão assustadoras assim. Em pouco tempo você irá mudar sua forma de pensar, e vai começar a resolver problemas do seu cotidiano com os conhecimentos que adquiriu aqui. 🧠
 
-**Recomendo** que você já tenha finalizado os desafios do módulo anterior antes de prosseguir. À partir daqui a **Dungeon** será liberada apenas para **Pessoas Dev** acima do nível 2. Demoro? 😉
+**Recomendo** que você já tenha finalizado os desafios do módulo anterior antes de prosseguir. À partir daqui a **Dungeon** será liberada apenas para as **Pessoas Dev** acima do nível 2. Demoro? 😉
 
 
-### 2.1 <a href="#">Dicas antes do *handsoff*</a>
+### 2.1 <a href="#dicas">Uma pequena parada antes de prosseguir a viagem</a>
 
-Como você pôde observar, a iniciativa do **Career Rush** ainda não criou nenhum conteúdo diretamente para você, pessoa leitora.
+Como você pôde observar, a iniciativa do **Career Rush** ainda não criou tutoriais ou video-aulas diretamente para você, **pessoa**.
 
  O que fazemos é compilar os anos de experiência de diversas pessoas que evoluíram na carreira de tecnologia, tratamos e formatamos esses insumos para poder te orientar melhor.
 
  Dito isso, existem **DIVERSOS** lugares com conteúdos de alta qualidade, e muitas vezes, grátis. Vamos listar aqui alguns deles, onde você com certeza irá voltar para conferida, segue a lista:
 
-#### 2.1.1 - <a href="#">Dev.to</a>
+#### 2.1.1 - <a href="#devto">Dev.to</a>
 | Preço | Link | Tipos de conteúdo | Recompensas
 |:--------:|:-----:|:----------------------:|:-------: |
 | Free 🤑 | <a href="https://dev.to/" target="_blank">Dev.to</a> | Todos os tipos de conteúdos relacionados a tecnologia | Inglês: ⭐⭐⭐
@@ -41,14 +58,14 @@ Este fórum de tecnologia me foi apresentado em 2018. Desde então, leio regular
 
 Tudo que você quiser saber sobre desenvolvimento, você provavelmente irá encontrar lá.
 
-### 2.2 <a href="#">Algoritmos e Lógica de Programação</a>
+### 2.2 <a href="#logica">Algoritmos e Lógica de Programação</a>
 
 Apesar deste ser o primeiro tópico em cursos técnicos e faculdades, a Lógica de Programação é muito subestimada.
-Ela é de longe uma das mais importantes habilidades de uma pessoa Resolvedora de Problemas que você será no futuro. Por isso, vamos investir bastante e garantir que você está confortável e pronta(o) para o próximo passo.
+Ela é de longe uma das mais importantes habilidades de uma **pessoa Resolvedora de Problemas** que você será no futuro. Por isso, vamos investir bastante e garantir que você está confortável e pronta(o) para o próximo passo.
 
 **Bora entrar na Matrix?** 👩‍💻👨‍💻
 
-#### 2.2.1 <a href="#">FreeCodeCamp</a>
+#### 2.2.1 <a href="#freecodecamp">FreeCodeCamp</a>
 
 | Preço | Link | Desafio | Recompensas
 |:-----:|:----------------------------:|:-------:|:------:|
@@ -69,7 +86,7 @@ Boa parte do meu conhecimento de base técnica eu aprendi lá, com eles. E acred
 
 A plataforma deles é gigante, com a maior parte do contéudo voltado ao Desenvolvimento Web. Mas segura as pontas, *ainda* não vamos partir pras coisas mágicas... Nesse momento estamos interessados no módulo de Algoritmos e Lógica de Programação deles 👀
 
-#### 2.2.2- <a href="#">Gustavo Guanabara</a>
+#### 2.2.2 <a href="#guanabara">Gustavo Guanabara</a>
 
 | Preço | Link | Tipos de conteúdo | Recompensas
 |:----------:|:---------------------:|:---------------------: |:------------------:|
@@ -85,7 +102,6 @@ Tem dois pontos bem positivos que me fazem recomender ele aqui, que seriam:
 
 * Os vídeo são em português, algo que definitivamente ajuda os iniciantes.
 
-### 2.3 Git e a mágica do versionamento ✨🧞‍
+### 2.3 <a href="#git">Git e a mágica do versionamento ✨🧞‍</a>
 
-
-### 2.4 Mas afinal, o que é esse tão de terminal? 🤔
+### 2.4 <a href="#git">Mas afinal, o que é esse tão de terminal? 🤔</a>
