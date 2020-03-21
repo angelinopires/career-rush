@@ -1,4 +1,4 @@
-# Seja bem-vinda(o) ao primeiro módulo do Career Rush 😎
+# Ficamos felizes em ter você no primeiro módulo do Career Rush 😎
 
 Este módulo é o mais importante da saga, ele irá te preparar para os desafios que você vai encontrar na sua carreira.
 
@@ -27,7 +27,7 @@ Quer saber mais? Entre em contato comigo via [LinkedIn](linkedin.com/in/angelino
 
 Assim como nos jogos de RPG, existem aquelas habilidades básicas abrem ramificações na sua árvore de talentos, e na vida real não poderia ser diferente.
 
-Quanto mais você aprende inglês, mais tipos de conteúdos diferentes você terá a oportunidade de consumir. Como por exemplo:
+Quanto mais você aprende inglês, mais tipos de conteúdos diferentes você terá a oportunidade de consumir:
 
 - Assistir vídeos, séries e filmes sem legenda 👀
 - Conversar casualmente com pessoas de outras nacionalidades 💂‍♀️
@@ -142,7 +142,7 @@ Eu, por exemplo, gosto muito de **Hearthstone** e conteúdos variados na **Twitc
 
 Outra dica valiosa que eu posso te dar é: **Veja seriados de comédia**.
 
-Um amigo que me ensinou essa técnica, é deveras interessante. Eu já assisti **Two and a Half man** e **Ricky & Morty** sem legenda, foi uma experiência bem legal. Algumas pessoas gostam mais de **Frinds** ou outros tipos de série, apenas assista o que você mais gosta 🤗
+Um amigo que ensinou essa técnica, é deveras interessante. Eu já assisti **Two and a Half man** e **Ricky & Morty** sem legenda, foi uma experiência bem legal. Algumas pessoas gostam mais de **Frinds** ou outros tipos de série, apenas assista o que você mais gosta 🤗
 
 ### 1.4 **Next Level** <a name="nextlevel"></a>
 ___
