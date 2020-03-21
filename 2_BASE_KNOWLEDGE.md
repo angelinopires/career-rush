@@ -19,13 +19,13 @@
 
 ## 🌎 1. <a name="jornada">O Início da sua Jornada </a>
 
-Eaaaai **pessoa DEV**, o que achou do último módulo? Aposto que foi _easy peasy_!
+Eaaaai, o que achou do último módulo? Aposto que foi _easy peasy_!
 
 Antes de prosseguir, quero que reflita por alguns minutos em como foi sua jornada até então. Pode parecer que você não fez nada demais, ou até que não fez nada, mas isso não é verdade.
 
 Todo viajante sabe como é importante se preprar antes de começar qualquer viagem. Conhecer a região, saber das características do clima, relevo, fauna e flora. Na sua vida profissional não poderia ser diferente. 🗺️
 
-Enquanto viaja pelas bosques desse módulo, gostaria que imaginasse o início da sua jornada, como se estivesse se preparando para viajar ao redor do mundo. 🌎
+Enquanto viaja pelas bosques desse módulo, gostaria de que imaginasse o início da sua jornada, como se estivesse se preparando para viajar ao redor do mundo. 🌎
 
 Pegou sua mochila? Então bora lá, sem enrolar! 😁
 
@@ -39,11 +39,11 @@ Pegou sua mochila? Então bora lá, sem enrolar! 😁
 
 ### 🛑 1.1 <a name="dicas">Uma pequena parada antes de prosseguir a viagem</a>
 
-Como você pôde observar, a iniciativa do **Career Rush** ainda não criou tutoriais ou video-aulas diretamente para você, **pessoa**.
+Como você pôde observar, a iniciativa do **Career Rush** ainda não criou tutoriais ou video-aulas diretamente para você.
 
 O que fazemos é compilar os anos de experiência de diversas pessoas que evoluíram na carreira de tecnologia, tratamos e formatamos esses insumos para poder te orientar melhor.
 
-Dito isso, existem **DIVERSOS** lugares com conteúdos de alta qualidade, e muitas vezes, grátis. Vamos listar aqui alguns deles, onde você com certeza irá voltar para conferida, segue a lista:
+Dito isso, existem **DIVERSOS** lugares com conteúdos de alta qualidade, e muitas vezes, grátis. Vamos listar aqui alguns deles, onde você com certeza irá voltar para conferir, segue a lista:
 
 <br>
 
@@ -83,7 +83,7 @@ Tudo que você quiser saber sobre desenvolvimento, você provavelmente irá enco
 ### 🖤 1.2 <a name="logica">Lógica e Algoritmos - O Coração da Máquina</a>
 
 Apesar deste ser o primeiro tópico nos cursos técnicos e faculdades de tecnologia, a Lógica de Programação é muito subestimada.
-Ela é de longe uma das mais importantes habilidades de uma **pessoa DEV**. Por isso, vamos investir bastante e garantir que você está confortável e pronta(o) para o próximo passo.
+Ela é, de longe, uma das mais importantes habilidades de uma pessoa DEV. Por isso, vamos investir bastante e garantir que você está confortável e pronta(o) para o próximo passo.
 
 #### 1.2.1 <a name="freecodecamp">FreeCodeCamp</a>
 
@@ -119,9 +119,9 @@ Resolvi assistir alguns vídeos sobre o assunto, e isso me ajudou bastante no in
 
 Tem dois pontos bem positivos que me fazem recomender ele aqui:
 
-- Os fundamentos, conhecimentos e experiências que ele transmiti nos vídeos são bem próximas do que você pode aprender numa faculdade.
+- Os fundamentos, conhecimentos e experiências que ele transmite nos vídeos são bem próximos do que você pode aprender numa faculdade.
 
-- Os vídeo são em português, algo que definitivamente ajuda os iniciantes.
+- Os vídeos são em português, algo que definitivamente ajuda os iniciantes.
 
 <br>
 
@@ -129,7 +129,7 @@ Tem dois pontos bem positivos que me fazem recomender ele aqui:
 
 |                                  Link                                   |                         Desafios                          |                                          Recompensas                                          |
 | :---------------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-| <a href="https://www.youtube.com/user/cursosemvideo">Curso em Vídeo</a> | Assistir 1 playlist completa de qualquer assunto do canal | Conhecimento gerais ⭐⭐⭐ <br> Linguagem de programação ⭐⭐ <br> Lógica de Programação ⭐⭐ |
+| <a href="https://www.youtube.com/user/cursosemvideo">Curso em Vídeo</a> | Assistir 1 playlist completa de qualquer assunto do canal | Conhecimentos gerais ⭐⭐⭐ <br> Linguagem de programação ⭐⭐ <br> Lógica de Programação ⭐⭐ |
 |                                                                         |                                                           |                                                                                               |
 
 <br>
@@ -148,17 +148,15 @@ Bom, é simples... É um Sistema Operacional voltado para **Pessoas Desenvolvedo
 
 A distribuição Linux que eu uso, o **Ubuntu**, é bem bonita, simples e ótima para usuários iniciantes de Linux.
 
-No início da minha jornada, após vários amigos e amigas experientes na área me recomendarem, eu resolvi instalar o Linux na minha máquina pessoal.
+No início da minha jornada, após várias pessoas amigas experientes na área me recomendarem, eu resolvi instalar o Linux na minha máquina pessoal.
 
 **Essa foi uma das melhores decisões que eu já tomei.**
 
-Saber operar essa maravilhosa ferramenta, faz total diferença no seu dia-a-dia. Hoje, usar Linux é uma parte essencial e comum do meu cotidiano.
-
-Hoje, no meu dia-a-dia de trabalho, faz total diferença eu saber lidar com essa ferramenta incrível que é o Linux.
+Saber operar essa maravilhosa ferramenta, faz total diferença no seu dia-a-dia. Hoje, usar Linux é uma parte essencial e comum do meu cotidiano. Hoje, no meu dia-a-dia de trabalho, faz total diferença eu saber lidar com essa ferramenta incrível que é o Linux.
 
 E assim como no Inglês, quanto mais você emergir, mais conhecimento você consegue absorver em um curto espaço de tempo. 🧠
 
-Mas fique tranquila **pessoa dev**, o **Linux** é apenas uma ferramenta, e como toda ferramenta ela é feita para facilitar sua vida, mantenha isso em mente. 🤗
+Mas mantenha a calma, o **Linux** é apenas uma ferramenta, e como toda ferramenta ela é feita para facilitar sua vida, mantenha isso em mente. 🤗
 
 <br>
 
@@ -168,7 +166,7 @@ Certo dia, um amigo do trabalho me apresentou um canal de YouTube de um tal **Di
 
 > Por que eu não soube desse canal antes? 🤔
 
-Ele tem uma didática incrível, consegue te ensinar de maneira simples e prática. Você consegue tirar várias dúvidas de iniciantes com os vídeos, além de se informar de coisas que mesmo os usuários **hard-core** de Linux não sabem.
+Ele tem uma didática incrível, consegue te ensinar de maneira simples e prática. Você consegue tirar várias dúvidas básicas com os vídeos, além de se informar de assuntos que mesmo quem usa o Linux no nível **hard-core** não sabe.
 
 <br>
 
@@ -185,11 +183,11 @@ Ele tem uma didática incrível, consegue te ensinar de maneira simples e práti
 
 Talvez o git seja uma das ferramentas mais essenciais ~~e com certeza a mais bonitinha~~ que a área de Desenvolvimento já teve. Nosso amado gatinho preto, é utilizado para fazer versionamento de **qualquer coisa** que seja feito por números binários (ou seja, basicamente tudo).
 
-Se facilitar para você, pense no versionamento de arquivos que você já fez/faz em arquivos Word e Excel ~~(Trabalho Final - Agora vai.word)~~, é a mesma coisa. A diferença, é que o **git** possibilita um controle muito mais preciso e fácil do que você deseja guardar.
+Vamos facilitar, pense no versionamento de arquivos que você já fez/faz em arquivos Word e Excel ~~("Trabalho Final.word"... "Trabalho Final Agora vai.word"... Trabalho Final Mesmoooo.word"...)~~, é a mesma coisa. A diferença, é que o **git** possibilita um controle muito mais preciso e fácil do que você deseja guardar.
 
-Ele é utilizado massivamente nas empresas hoje, para armazenarem e versionarem o código de seus desenvolvedores.
+Ele é utilizado massivamente nas empresas hoje, para armazenamento e versionamento do código de seus desenvolvedores.
 
-E apenas um esclarecimento que as pessoas possuem dúvida no começo: **git não é Github**.
+E apenas um esclarecimento: **git não é Github**.
 
 Github é uma plataforma visual para você hospedar e versionar seus arquivos, utilizando a ferramenta git. Inclusive este guia que você está lendo está hospeado em um **repositório público** no Github.
 
@@ -199,7 +197,7 @@ Tudo certo? Então bora prosseguir! 😁
 
 #### 1.4.1 <a name="jose">Professor José de Assis</a>
 
-Buscando incessavelmente por conteúdos bons e disponíveis para vocês, acabei me deparando com o Professor José. Ele possui uma ótima didática, e ainda aborda os assuntos mais básicos do git, de forma que qualquer pessoa iniciante possa aprender.
+Buscando incessantemente por conteúdos bons e disponíveis para vocês, acabei me deparando com o Professor José. Ele possui uma ótima didática, e ainda aborda os assuntos mais básicos do git, de forma que todas pessoas iniciantes possam aprender.
 
 <br>
 
