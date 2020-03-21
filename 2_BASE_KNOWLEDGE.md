@@ -1,39 +1,23 @@
-[WORKING IN PROGRESS]
-
 # Base Técnica
-
--> TODO: adicionar linux e terminal. <br>
--> TODO: pensar em identidade de gênero para se referir a pessoa leitora. <br>
--> TODO: adicionar git. <br>
--> TODO: Adicionar artigos relevantes. <br>
-
-    Padrão de módulos:
-        Índice
-        Título do módulo
-            Introdução do módulo
-            Frase motivacional
-            Assunto 1
-            Descrição do Assunto 1
-                Dica 1
-                Descrição da Dica 1
-                    Recomendação 1
-                    Descrição da Recomendação 1
-                    Tabela de desafios/recompensas da Recomendação 1
-                Artigos
 
 ## 📝 Índice
 
-- [1. O Início da sua Jornada 🌎](jornada)
-  - [1.1 Uma pequena parada antes de prosseguir a viagem 🛑](#dicas)
+- [🌎 1. O Início da sua Jornada](#jornada)
+
+  - [🛑 1.1 Uma pequena parada antes de prosseguir a viagem](#dicas)
     - [1.1.1 Dev.to](#devto)
     - [1.1.2 Artigos Recomendados](#dicas-artigos)
-  - [1.2 Algoritmos e Lógica de Programação](#logica)
+  - [🖤 1.2 Lógica e Algoritmos - O Coração da Máquina](#logica)
     - [1.2.1 FreeCodeCamp](#freecodecamp)
     - [1.2.2 Gustavo Guanabara](#guanabara)
-    - [1.2.3 Artigos Recomendados](#logica-artigos)
-  - [1.3 Git e a mágica do versionamento ✨🧞‍](#git)
+  - [💻 1.3 A magia dos terminais](#linux)
+    - [1.3.1 Diolinux](#diolinux)
+  - [🎩 1.4 Git e a mágica do versionamento](#git)
+    - [1.4.1 Professor José de Assis](#jose)
 
-## 1. <a href="jornada">O Início da sua Jornada 🌎</a>
+---
+
+## 🌎 1. <a name="jornada">O Início da sua Jornada </a>
 
 Eaaaai **pessoa DEV**, o que achou do último módulo? Aposto que foi _easy peasy_!
 
@@ -47,11 +31,13 @@ Pegou sua mochila? Então bora lá, sem enrolar! 😁
 
 <br>
 
-> "Qual é a ÚNICA Coisa que posso fazer de modo que, ao fazê-la, o restante se torne mais fácil ou desnecessário?”. Gary Keller - A Única Coisa.
+> "Toda grande mudança começa como dominós em queda.” - B.J Thornton
 
 <br>
 
-### 1.1 <a href="#dicas">Uma pequena parada antes de prosseguir a viagem 🛑</a>
+---
+
+### 🛑 1.1 <a name="dicas">Uma pequena parada antes de prosseguir a viagem</a>
 
 Como você pôde observar, a iniciativa do **Career Rush** ainda não criou tutoriais ou video-aulas diretamente para você, **pessoa**.
 
@@ -59,7 +45,9 @@ O que fazemos é compilar os anos de experiência de diversas pessoas que evolu�
 
 Dito isso, existem **DIVERSOS** lugares com conteúdos de alta qualidade, e muitas vezes, grátis. Vamos listar aqui alguns deles, onde você com certeza irá voltar para conferida, segue a lista:
 
-#### 1.1.1 - <a href="#devto">Dev.to</a>
+<br>
+
+#### 1.1.1 - <a name="devto">Dev.to</a>
 
 Este fórum de tecnologia me foi apresentado em 2018. Desde então, leio regularmente diversos artigos na plataforma. Aprendi diversas coisas que podem ser consideradas de **conhecimento avançado** enquanto ainda era Estagiário, recomendo muito você conferir! 😉
 
@@ -69,25 +57,35 @@ Tudo que você quiser saber sobre desenvolvimento, você provavelmente irá enco
 
 <h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
 
-|                         Link                         |                   Tipos de conteúdo                   |                  Desafios                   |                  Recompensas                  |
-| :--------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------: | :-------------------------------------------: |
-| <a href="https://dev.to/" target="_blank">Dev.to</a> | Todos os tipos de conteúdos relacionados a tecnologia | Ler 3 artigos por semana, durante 4 semanas | Inglês ⭐⭐⭐ <br> Conhecimento gerais ⭐⭐⭐ |
-|                                                      |
+|                 Link                 |                   Tipos de conteúdo                   |                  Desafios                   |                  Recompensas                  |
+| :----------------------------------: | :---------------------------------------------------: | :-----------------------------------------: | :-------------------------------------------: |
+| <a href="https://dev.to/">Dev.to</a> | Todos os tipos de conteúdos relacionados a tecnologia | Ler 3 artigos por semana, durante 4 semanas | Inglês ⭐⭐⭐ <br> Conhecimento gerais ⭐⭐⭐ |
+|                                      |
 
 <br>
 
-#### 1.1.2 <a href="#dicas-artigos">Artigos Recomendados</a>
+#### 1.1.2 <a name="dicas-artigos">Artigos Recomendados</a>
 
-TODO: Adicionar artigos relevantes aqui
+1. <a href="https://blog.caelum.com.br/voce-nao-e-pago-para-programar/">Você não é pago para programar! - Paulo Silveira </a><br>
+   Se você vai começar na área, não se iluda. Você não é pago para **programar**, e o Paulo Silva pode te explicar melhor o porquê.
 
-### 1.2 <a href="#logica">Algoritmos e Lógica de Programação</a>
+2. <a href="https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda">7 Rules for Creating Gorgeous UI - Erik D. Kennedy</a><br>
+   Se você é assim como eu e não gosta de protitipar layouts, este artigo é pra você. Mesmo se você gostar, vale a leitura. Este artigo explica os mais diversos **padrões** de sites e aplicações de forma simples e objetiva (com ilustrações).
+
+3. <a href="https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c">10 Signs You Will Suck at Programming - Jonathan Bluks</a><br>
+   Este artigo é um ótimo guia do que "não fazer" na área de **Desenvolvimento**. Porém, se você está começando, pode fazer o contrário: entender quais características e comportamentos são ruins e não praticá-los.
+
+4. <a href="https://developers.google.com/web/fundamentals/performance/why-performance-matters">Why Performance Matters - Jeremy Wagner</a><br>
+   Apesar de ser um pouco mais técnico, este assunto é essencial quando falamos de desenvolvimento: **Performance**. Entenda um pouco mais sobre como a performance pode impactar sua aplicação Front-end.
+
+---
+
+### 🖤 1.2 <a name="logica">Lógica e Algoritmos - O Coração da Máquina</a>
 
 Apesar deste ser o primeiro tópico nos cursos técnicos e faculdades de tecnologia, a Lógica de Programação é muito subestimada.
 Ela é de longe uma das mais importantes habilidades de uma **pessoa DEV**. Por isso, vamos investir bastante e garantir que você está confortável e pronta(o) para o próximo passo.
 
-<br>
-
-#### 1.2.1 <a href="#freecodecamp">FreeCodeCamp</a>
+#### 1.2.1 <a name="freecodecamp">FreeCodeCamp</a>
 
 Um dos motivos do **Career Rush** existir é por conta do **FreeCodeCamp**. Os desafios deles me fizeram crescer profissionalmente mais rapidamente do que eu pensava, e sou eternamente grato a iniciativa deles.
 
@@ -105,14 +103,15 @@ A plataforma deles é gigante, com a maior parte do contéudo voltado ao Desenvo
 
 <h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
 
-|                                        Link                                         |                                Desafios                                |                                             Recompensas                                             |
-| :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-|      <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>       | Tirar a certificação de Algoritmos e Estrutura de Dados com JavaScript |               Inglês ⭐⭐⭐ <br> JavaScript ⭐⭐⭐ <br> Lógica de Programação ⭐⭐⭐                |
-| <a href="https://www.freecodecamp.org/angelinopires" target="_blank">Meu perfil</a> |              Passar a minha pontuação na plataforma (274)              | Inglês ⭐⭐⭐ <br> HTML ⭐⭐⭐ <br> CSS ⭐⭐⭐ <br> JavaScript ⭐⭐ <br> Lógica de Programação ⭐⭐ |
+|                                Link                                 |                                Desafios                                |                                             Recompensas                                             |
+| :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+|      <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>       | Tirar a certificação de Algoritmos e Estrutura de Dados com JavaScript |               Inglês ⭐⭐⭐ <br> JavaScript ⭐⭐⭐ <br> Lógica de Programação ⭐⭐⭐                |
+| <a href="https://www.freecodecamp.org/angelinopires">Meu perfil</a> |              Passar a minha pontuação na plataforma (274)              | Inglês ⭐⭐⭐ <br> HTML ⭐⭐⭐ <br> CSS ⭐⭐⭐ <br> JavaScript ⭐⭐ <br> Lógica de Programação ⭐⭐ |
+|                                                                     |                                                                        |                                                                                                     |
 
 <br>
 
-#### 1.2.2 <a href="#guanabara">Gustavo Guanabara</a>
+#### 1.2.2 <a name="guanabara">Gustavo Guanabara</a>
 
 Os vídeos do **Guanabara** foram um dos meus primeiros contatos com programação. Na época, acessei o canal dele para aprender sobre HTML5, e acabei descobrindo que ele é uma referência em diversos assuntos técnicos, como **Lógica de Programação**.
 
@@ -128,23 +127,90 @@ Tem dois pontos bem positivos que me fazem recomender ele aqui:
 
 <h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
 
-|                                          Link                                           |                         Desafios                          |                                          Recompensas                                          |
-| :-------------------------------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-| <a href="https://www.youtube.com/user/cursosemvideo" target="_blank">Curso em Vídeo</a> | Assistir 1 playlist completa de qualquer assunto do canal | Conhecimento gerais ⭐⭐⭐ <br> Linguagem de programação ⭐⭐ <br> Lógica de Programação ⭐⭐ |
-|                                                                                         |                                                           |                                                                                               |
+|                                  Link                                   |                         Desafios                          |                                          Recompensas                                          |
+| :---------------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| <a href="https://www.youtube.com/user/cursosemvideo">Curso em Vídeo</a> | Assistir 1 playlist completa de qualquer assunto do canal | Conhecimento gerais ⭐⭐⭐ <br> Linguagem de programação ⭐⭐ <br> Lógica de Programação ⭐⭐ |
+|                                                                         |                                                           |                                                                                               |
 
 <br>
 
-#### 1.2.3 <a href="#logica-artigos">Artigos Recomendados</a>
+### 💻 1.3 <a name="linux">A magia dos terminais 👨‍💻👩‍💻</a>
 
-TODO: Adicionar artigos relevantes aqui
+Talvez esse seja um dos passos mais difíceis para a maioria das pessoas: usar Linux. 🖥️
 
-### 1.3 <a href="#git">Git e a mágica do versionamento ✨🧞‍</a>
+Pra mim foi, pelo menos. Eu não entendia nada, se caso qualquer tutorial maluco não funcionasse na minha máquina, eu não sabia resolver... Enfim, eu sobrevivi e estou aqui para compartilhar as minhas dicas para vocês.
 
-### 1.4 <a href="#git">Mas afinal, o que é esse tão de terminal? 🤔</a>
+Mas você deve estar se questionando:
 
-    Neste módulo você irá aprender os conceitos mais **fodas** da área de tecnologia. 🖥️
+> É realmente necessário usar Linux? O que ele tem de superior sobre outros Sistemas Operacionais? 🤔
 
-    Vai pereceber que aquelas telas pretas cheias de letras e números não são tão assustadoras assim. Em pouco tempo você irá mudar sua forma de pensar, e vai começar a resolver problemas do seu cotidiano com os conhecimentos que adquiriu aqui. 🧠
+Bom, é simples... É um Sistema Operacional voltado para **Pessoas Desenvolvedoras**, assim como você. Pode parecer que você só faz as coisas através dos **terminais**, mas é mentira. 🤦‍♂️
 
-    **Recomendo** que você já tenha finalizado os desafios do módulo anterior antes de prosseguir. À partir daqui a **Dungeon** será liberada apenas para as **Pessoas Dev** acima do nível 2. Demoro? 😉
+A distribuição Linux que eu uso, o **Ubuntu**, é bem bonita, simples e ótima para usuários iniciantes de Linux.
+
+No início da minha jornada, após vários amigos e amigas experientes na área me recomendarem, eu resolvi instalar o Linux na minha máquina pessoal.
+
+**Essa foi uma das melhores decisões que eu já tomei.**
+
+Saber operar essa maravilhosa ferramenta, faz total diferença no seu dia-a-dia. Hoje, usar Linux é uma parte essencial e comum do meu cotidiano.
+
+Hoje, no meu dia-a-dia de trabalho, faz total diferença eu saber lidar com essa ferramenta incrível que é o Linux.
+
+E assim como no Inglês, quanto mais você emergir, mais conhecimento você consegue absorver em um curto espaço de tempo. 🧠
+
+Mas fique tranquila **pessoa dev**, o **Linux** é apenas uma ferramenta, e como toda ferramenta ela é feita para facilitar sua vida, mantenha isso em mente. 🤗
+
+<br>
+
+#### 1.3.1 <a name="diolinux">Diolinux</a>
+
+Certo dia, um amigo do trabalho me apresentou um canal de YouTube de um tal **Diolinux**, e isso me fez questionar:
+
+> Por que eu não soube desse canal antes? 🤔
+
+Ele tem uma didática incrível, consegue te ensinar de maneira simples e prática. Você consegue tirar várias dúvidas de iniciantes com os vídeos, além de se informar de coisas que mesmo os usuários **hard-core** de Linux não sabem.
+
+<br>
+
+<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+
+|                            Link                             |                    Tipos de conteúdo                     |                                                  Desafios                                                  |            Recompensas            |
+| :---------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------: |
+| <a href="https://www.youtube.com/user/Diolinux">YouTube</a> | Conhecimentos gerais, curiosidades e extras sobre Linux. | Instalar qualquer Distribuição Linux em sua Máquina Pessoal <br> Assistir pelo menos 10 vídeos sobre Linux | Terminal ⭐⭐⭐ <br> Linux ⭐⭐⭐ |
+|                                                             |                                                          |                                                                                                            |
+
+<br>
+
+### 🎩 1.4 <a name="git">Git e a mágica do versionamento‍</a>
+
+Talvez o git seja uma das ferramentas mais essenciais ~~e com certeza a mais bonitinha~~ que a área de Desenvolvimento já teve. Nosso amado gatinho preto, é utilizado para fazer versionamento de **qualquer coisa** que seja feito por números binários (ou seja, basicamente tudo).
+
+Se facilitar para você, pense no versionamento de arquivos que você já fez/faz em arquivos Word e Excel ~~(Trabalho Final - Agora vai.word)~~, é a mesma coisa. A diferença, é que o **git** possibilita um controle muito mais preciso e fácil do que você deseja guardar.
+
+Ele é utilizado massivamente nas empresas hoje, para armazenarem e versionarem o código de seus desenvolvedores.
+
+E apenas um esclarecimento que as pessoas possuem dúvida no começo: **git não é Github**.
+
+Github é uma plataforma visual para você hospedar e versionar seus arquivos, utilizando a ferramenta git. Inclusive este guia que você está lendo está hospeado em um **repositório público** no Github.
+
+Existem outras plataformas que também fazem o mesmo, a mais conhecida é o **Bitbucket**, da Atlassian.
+
+Tudo certo? Então bora prosseguir! 😁
+
+#### 1.4.1 <a name="jose">Professor José de Assis</a>
+
+Buscando incessavelmente por conteúdos bons e disponíveis para vocês, acabei me deparando com o Professor José. Ele possui uma ótima didática, e ainda aborda os assuntos mais básicos do git, de forma que qualquer pessoa iniciante possa aprender.
+
+<br>
+
+<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+
+|                                                      Link                                                      |                  Tipos de conteúdo                   |                                  Desafios                                  |                    Recompensas                     |
+| :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------: |
+|                                    <a href="https://github.com/">Github</a>                                    | Tudo que você quiser saber sobre programação e mais. |                      Criar uma conta no Github. <br>                       | Visibilidade ⭐⭐⭐ <br> Conhecimentos Gerais ⭐⭐ |
+| <a href="https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj">Professor José de Assis</a> |             Tudo sobre o básico de git.              | Assistir a playlist inteira <br> Subir pelo menos 1 repositório no Github. |                     Git ⭐⭐⭐                     |
+|                                                                                                                |
+
+<br>
+
+> "Qual é a ÚNICA Coisa que posso fazer de modo que, ao fazê-la, o restante se torne mais fácil ou desnecessário?”. Gary Keller - A Única Coisa.
