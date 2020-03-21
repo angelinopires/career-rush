@@ -10,7 +10,7 @@
 
 ## 🏃‍ O que é Career Rush? <a name="careerrush"></a>
 
-A **Career Rush** é uma iniciativa que nasceu para resolver as dores das pessoas que querem trabalhar na área de Tecnologia mas tem diversos impedimentos. Ela é totalmente _Open Source_ e **qualquer pessoa pode e deve ter acesso à este conteúdo**.
+A **Career Rush** é uma iniciativa que nasceu para resolver as dores das pessoas que querem trabalhar na área de Tecnologia mas tem diversos impedimentos. Ela é totalmente _Open Source_ e **qualquer pessoa pode e deve ter acesso a este conteúdo**.
 
 Buscamos melhorar a vida de pessoas da comunidade, através de conselhos, direcionamento e treinamentos.
 
@@ -22,17 +22,17 @@ Além disso, esse projeto visa te preparar para um ambiente de trabalho similar 
 
 Caso você chegue no nível necessário para trabalhar na **GC**, você pode se candidatar e receber uma indicação minha 👊
 
-Com essa meta estabelecida, temos uma lista de passos à serem seguidos. Bora lá? 😼
+Com essa meta estabelecida, temos uma lista de passos a serem seguidos. Bora lá? 😼
 
 ### 1. Aprimorar seu Inglês 👩‍🏫👨‍🏫
 
 Fique de boas 🤙
 
-Inglês é algo importante, mas temos vários meios de aprimorá-lo hoje em dia. Apenas tenha em mente que para poder dar seu melhor, essa é uma _skill_ importante.
+Inglês é algo importante, mas temos vários meios de aprimorá-lo hoje em dia. Apenas tenha em mente que, para poder dar seu melhor, essa é uma _skill_ importante.
 
 ### 2. Investir pesado em conhecimentos de base técnica 👩‍💻👨‍💻
 
-O fator mais importante e decisivo em uma pessoa desenvolvedora foda é seu conhecimento base. Em diversos momentos você será testada(o) por coisas que não tem como saber no momento. O que vai te guiar durante esse caminho serão suas horas gastas aprimorando o básico.
+O fator mais importante e decisivo em uma pessoa desenvolvedora foda é seu conhecimento base. Em diversos momentos você precisará lidar com coisas que não tem como saber no momento. O que vai te guiar durante esse caminho serão suas horas gastas aprimorando o básico.
 
 ### 3. Praticar uma mentalidade _Open Source_ 🌎
 
@@ -40,7 +40,7 @@ Mas antes, o que é "mentalidade _Open Source_"?
 
 Você provavelmente já conheceu diversas pessoas com essa mentalidade e pode não ter notado. Esse _mindset_ é o responsável por fazer o mundo da tecnologia acontecer, sem ele não teríamos todo o avanço que desfrutamos hoje. Ele diz sobre como podemos melhorar o mundo e a si mesmos ajudando o próximo, colocando a **comunidade** como prioridade e fazendo uma caminhada juntos em busca dos nossos objetivos.
 
-Parece utópico não é? Mas esse _mindset_ é **real**, e você está presenciando ele agora mesmo. 😉
+Parece utópico, não é? Mas esse _mindset_ é **real**, e você está presenciando ele agora mesmo. 😉
 
 ### 4. Criar networking 🌐
 
@@ -48,26 +48,26 @@ Criar seu networking se tornará apenas uma consequência quando você adotar o 
 
 ### 5. Adquirir experiência 🕵️‍
 
-Muitas(os) de vocês devem estar em busca do primeiro trabalho, e sempre tem a famosa pergunta: **Como eu consigo um emprego que pede experiência sem eu ter experiência?** 🤔
+Talvez, para você que esteja em busca do primeiro trabalho, lhe surja a famosa pergunta: **Como eu consigo um emprego que pede experiência sem eu ter experiência?** 🤔
 
-E eu digo pra vocês: é bem possível. Muitas vezes a experiência que a empresa busca em um primeiro trabalho não é profissional (levando em conta as empresas decentes), e sim uma experiência com a área. Nestes momentos qualquer experiência é válida:
+E eu digo: é bem possível. Muitas vezes a experiência que a empresa busca em um primeiro trabalho não é profissional (levando em conta as empresas decentes), e sim uma experiência com a área. Nestes momentos qualquer experiência é válida:
 
 - Livros que você leu;
 - Cursos que você fez;
 - Pessoas que você conheceu;
 - Pequenos projetos que você desenvolveu para aprender uma linguagem/ferramenta;
 - Eventos, conferências e _meetups_ que você frequentou ou organizou;
-- Projetos na faculdade, como: Clube de estudos, Iniciações Ciêntíficas, TCC, TG, etc.
+- Projetos na faculdade, como: Clube de estudos, Iniciações Ciêntíficas, Monitorias, etc.
 
 Tudo que você já fez ou viveu conta como experiência. Todo o conhecimento que você adquiriu com o passar do tempo é sua experiência, use isso **a seu favor**. Portanto, continue em **constante aprendizado**, investindo no seu longo prazo ✌️.
 
-### 6. Por a mão na massa 👩‍🍳👨‍🍳
+### 6. Pôr a mão na massa 👩‍🍳👨‍🍳
 
 Mesmo com todos os recursos e conhecimento do mundo, nada vai acontecer se você não **fizer acontecer**.
 
 Vamos elaborar diversos desafios durante seu período de aprendizado, e quanto mais desafios você vencer, mais forte você fica (bem parecido com Dragon Ball 🤔).
 
-Estamos te dando o caminho e as ferramentas, e é claro que estaremos com você nessa jornada, portanto, **never fucking give up!**
+Estamos te dando o **caminho e as ferramentas**, e é claro que estaremos com você nessa jornada, portanto, **never fucking give up!**
 
 ## Como participar <a name="participar"></a>
 
