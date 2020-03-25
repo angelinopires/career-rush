@@ -12,10 +12,13 @@
     - [1.2.2 Gustavo Guanabara](#guanabara)
   - [💻 1.3 A magia dos terminais](#linux)
     - [1.3.1 Diolinux](#diolinux)
+    - [1.3.2 Linux4noobs](#4noobs)
   - [🎩 1.4 Git e a mágica do versionamento](#git)
     - [1.4.1 Professor José de Assis](#jose)
 
 ---
+
+<br>
 
 ## 🌎 1. <a name="jornada">O Início da sua Jornada </a>
 
@@ -32,8 +35,6 @@ Pegou sua mochila? Então bora lá, sem enrolar! 😁
 <br>
 
 > "Toda grande mudança começa como dominós em queda.” - B.J Thornton
-
-<br>
 
 ---
 
@@ -60,7 +61,6 @@ Tudo que você quiser saber sobre desenvolvimento, você provavelmente irá enco
 |                 Link                 |                   Tipos de conteúdo                   |                  Desafios                   |                  Recompensas                  |
 | :----------------------------------: | :---------------------------------------------------: | :-----------------------------------------: | :-------------------------------------------: |
 | <a href="https://dev.to/">Dev.to</a> | Todos os tipos de conteúdos relacionados a tecnologia | Ler 3 artigos por semana, durante 4 semanas | Inglês ⭐⭐⭐ <br> Conhecimento gerais ⭐⭐⭐ |
-|                                      |
 
 <br>
 
@@ -80,10 +80,14 @@ Tudo que você quiser saber sobre desenvolvimento, você provavelmente irá enco
 
 ---
 
+<br>
+
 ### 🖤 1.2 <a name="logica">Lógica e Algoritmos - O Coração da Máquina</a>
 
 Apesar deste ser o primeiro tópico nos cursos técnicos e faculdades de tecnologia, a Lógica de Programação é muito subestimada.
 Ela é, de longe, uma das mais importantes habilidades de uma pessoa DEV. Por isso, vamos investir bastante e garantir que você está confortável e pronta(o) para o próximo passo.
+
+<br>
 
 #### 1.2.1 <a name="freecodecamp">FreeCodeCamp</a>
 
@@ -107,7 +111,6 @@ A plataforma deles é gigante, com a maior parte do contéudo voltado ao Desenvo
 | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 |      <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>       | Tirar a certificação de Algoritmos e Estrutura de Dados com JavaScript |               Inglês ⭐⭐⭐ <br> JavaScript ⭐⭐⭐ <br> Lógica de Programação ⭐⭐⭐                |
 | <a href="https://www.freecodecamp.org/angelinopires">Meu perfil</a> |              Passar a minha pontuação na plataforma (274)              | Inglês ⭐⭐⭐ <br> HTML ⭐⭐⭐ <br> CSS ⭐⭐⭐ <br> JavaScript ⭐⭐ <br> Lógica de Programação ⭐⭐ |
-|                                                                     |                                                                        |                                                                                                     |
 
 <br>
 
@@ -127,10 +130,9 @@ Tem dois pontos bem positivos que me fazem recomender ele aqui:
 
 <h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
 
-|                                  Link                                   |                         Desafios                          |                                          Recompensas                                          |
-| :---------------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|                                  Link                                   |                         Desafios                          |                                          Recompensas                                           |
+| :---------------------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 | <a href="https://www.youtube.com/user/cursosemvideo">Curso em Vídeo</a> | Assistir 1 playlist completa de qualquer assunto do canal | Conhecimentos gerais ⭐⭐⭐ <br> Linguagem de programação ⭐⭐ <br> Lógica de Programação ⭐⭐ |
-|                                                                         |                                                           |                                                                                               |
 
 <br>
 
@@ -172,10 +174,21 @@ Ele tem uma didática incrível, consegue te ensinar de maneira simples e práti
 
 <h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
 
-|                            Link                             |                    Tipos de conteúdo                     |                                                  Desafios                                                  |            Recompensas            |
-| :---------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------: |
-| <a href="https://www.youtube.com/user/Diolinux">YouTube</a> | Conhecimentos gerais, curiosidades e extras sobre Linux. | Instalar qualquer Distribuição Linux em sua Máquina Pessoal <br> Assistir pelo menos 10 vídeos sobre Linux | Terminal ⭐⭐⭐ <br> Linux ⭐⭐⭐ |
-|                                                             |                                                          |                                                                                                            |
+|                            Link                             |                    Tipos de conteúdo                     |                       Desafios                        |            Recompensas            |
+| :---------------------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: | :-------------------------------: |
+| <a href="https://www.youtube.com/user/Diolinux">YouTube</a> | Conhecimentos gerais, curiosidades e extras sobre Linux. | Ler pelo menos 2 módulos <br> Favoritar o repositório | Terminal ⭐⭐⭐ <br> Linux ⭐⭐⭐ |
+
+<br>
+
+#### 1.3.2 <a name="4noobs">Linux4noobs</a>
+
+Encontrei esse repositório sobre Linux através de um amigo meu. Este conteúdo é muito completo e detalhado, não apenas sobre Linux, mas sua história, evolução e principais conceitos. É bem difícil achar um conteúdo que aborde todos esse temas de uma forma acessível.
+
+<br>
+
+|                              Link                              |                Tipos de conteúdo                |                                                  Desafios                                                  |            Recompensas            |
+| :------------------------------------------------------------: | :---------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------: |
+| <a href="https://github.com/LucasHe4rt/linux4noobs">Github</a> | Conhecimento Open Source, gratuito e acessível. | Instalar qualquer Distribuição Linux em sua Máquina Pessoal <br> Assistir pelo menos 10 vídeos sobre Linux | Terminal ⭐⭐⭐ <br> Linux ⭐⭐⭐ |
 
 <br>
 
@@ -195,6 +208,8 @@ Existem outras plataformas que também fazem o mesmo, a mais conhecida é o **Bi
 
 Tudo certo? Então bora prosseguir! 😁
 
+<br>
+
 #### 1.4.1 <a name="jose">Professor José de Assis</a>
 
 Buscando incessantemente por conteúdos bons e disponíveis para vocês, acabei me deparando com o Professor José. Ele possui uma ótima didática, e ainda aborda os assuntos mais básicos do git, de forma que todas pessoas iniciantes possam aprender.
@@ -207,7 +222,6 @@ Buscando incessantemente por conteúdos bons e disponíveis para vocês, acabei 
 | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------: |
 |                                    <a href="https://github.com/">Github</a>                                    | Tudo que você quiser saber sobre programação e mais. |                      Criar uma conta no Github. <br>                       | Visibilidade ⭐⭐⭐ <br> Conhecimentos Gerais ⭐⭐ |
 | <a href="https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj">Professor José de Assis</a> |             Tudo sobre o básico de git.              | Assistir a playlist inteira <br> Subir pelo menos 1 repositório no Github. |                     Git ⭐⭐⭐                     |
-|                                                                                                                |
 
 <br>
 
