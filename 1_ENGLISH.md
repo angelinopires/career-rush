@@ -1,31 +1,44 @@
-# Ficamos felizes em ter você no primeiro módulo do Career Rush 😎
-
-Este módulo é o mais importante da saga, ele irá te preparar para os desafios que você vai encontrar na sua carreira.
-
-Gostou desse conteúdo? Temos um grupo privado especialmente para pessoas como você que estão engajadas em construir sua carreira.
-
-Quer saber mais? Entre em contato comigo via [LinkedIn](https://linkedin.com/in/angelinopires) e irei te explicar melhor 😉
-
-**Are you ready?**
+# <p style="text-align: center; margin-bottom: 0;">🏃 Seja muito bem-vinda ao primeiro módulo do Career Rush 🏃‍♀️</p>
 
 ## 📝 Índice
-- [Inglês, aprendendo para aprender](#ingles)
-    - [1.1 Básico](#basico)
-        - [1.1.1 Duolingo](#duolingo)
-        - [1.1.2 Teacher Paulo](#teacherpaulo)
-    - [1.2 Intermediário](#intermediario)
-        - [1.2.1 Faça o que você gosta, mas em inglês](#vocegosta)
-        - [1.2.2 Capitão: vamos submergir!](#submergir)
-    - [1.3 Avançado](#avancado)
-        - [1.3.1 JamesESL](#james)
-        - [1.3.2 Legenda? 😂👌](#legenda)
-    - [1.4 Next Level](#nextlevel)
 
+- [✏️ 1. Introdução](#introducao)
+- [👨‍🏫 2. Programa de mentoria](#mentoria)
+- [😌 3. Inglês, aprendendo para aprender](#ingles)
+  - [💚 3.1 O básico para sua jornada](#basico)
+    - [3.1.1 Duolingo](#duolingo)
+    - [3.1.2 Teacher Paulo](#teacherpaulo)
+  - [💛 3.2 Level up! Intermediário alcançado :)](#intermediario)
+    - [3.2.1 Faça o que você gosta, mas em inglês](#vocegosta)
+    - [3.2.2 Capitão: vamos submergir!](#desafios)
+  - [❤️ 3.3 Chegamos do lado avançado da ilha, e agora?](#avancado)
+    - [3.3.1 JamesESL](#james)
+    - [3.3.2 Legenda? hahahaha](#legenda)
+  - [💞 3.4 Youe next Level](#nextlevel)
 
+---
 
-## 1. Inglês, aprendendo para aprender 👩‍🏫👨‍🏫 <a name="ingles"></a>
+## ✏️ 1. <a name="introducao">Introdução</a>
 
-Assim como nos jogos de RPG, existem aquelas habilidades básicas abrem ramificações na sua árvore de talentos, e na vida real não poderia ser diferente.
+Muitas pessoas subestimam o quão importante pode ser o inglês na vida delas, e com isso cometem um erro fatal. A habilidade de **se comunicar** é um dos maiores diferenciais da espécie humana, e quanto melhor você sabe se comunicar, mais longe você vai.
+
+Portanto, este módulo é o mais importante da saga, que irá te preparar para os desafios que você vai encontrar na sua carreira.
+
+---
+
+## 👨‍🏫 2. <a name="mentoria">Programa de mentoria</a>
+
+Gostou desse conteúdo? Tenho uma oportunidade para você.
+
+Temos um grupo de WhatsApp com pessoas selecionadas para receber mentoria e acompanhamento da carreira, apenas algumas pessoas estão participando no momento.
+
+Tem interesse em participar da mentoria? Se cadastre neste [formulário](https://bit.ly/33PHJfm) para poder participar.
+
+---
+
+## 😌 3. <a name="ingles">Inglês, aprendendo para aprender</a>
+
+Assim como nos jogos de RPG, existem aquelas habilidades básicas que abrem ramificações na sua árvore de talentos, e na vida real não poderia ser diferente.
 
 Quanto mais você aprende inglês, mais tipos de conteúdos diferentes você terá a oportunidade de consumir:
 
@@ -37,132 +50,216 @@ Quanto mais você aprende inglês, mais tipos de conteúdos diferentes você ter
 
 Adquirir essa habilidade é algo que coloca seu personagem em uma vantagem muito **foda**!
 
-Apenas quero lembrar você que a maneira como pretendemos que você aprenda inglês não será como muitos cursos fazem, um **Rush**. Acreditamos que você adquirir conhecimentos sólidos é mais valioso do que aprender rápido. Por isso, o formato que você aprenderá será através da **Imersão**.
+Apenas quero lembrar você que a maneira como pretendemos que você aprenda inglês não será como muitos cursos fazem. Acreditamos que adquirir conhecimentos sólidos é mais valioso do que aprender rápido. Por isso, o formato que você aprenderá será através da **Imersão**.
 
-### **1.1 Básico** <a name="basico"></a>
-___
-Antes de mais nada, quero te avisar que os "níveis" que todas as pessoas se referem é relativo.
+<br>
 
-O que eu considero avançado pode não ser avançado de fato, ou pode ser fluente para algumas pessoas. Sempre mantenha em mente que "saber" uma língua é saber se comunicar. Não precisa acertar todas as palavras. Basta ouvir, entender e conversar.
+> "Aqueles que se concentram em apenas uma única coisa são os que avançam neste mundo.". Og Mandino.
 
-Seu objetivo durante o básico será: Treinar seu **reading** & **grammar**.
+---
 
-**Beleza? Então bora lá!** 😎
+### 💚 3.1 <a name="basico">O básico para sua jornada</a>
 
-#### 1.1.1 Duolingo <a name="duolingo"></a>
+Antes de mais nada, quero lhe avisar que os _níveis_ que todas as pessoas se referem é relativo.
 
-| Link | Preço | Desafio | Duração
-| :-----:|:-----:|:----------------------------:|:-------: |
-| [👀](https://www.duolingo.com/) | Free 🤑 | Utilizar o App todos os dias | 30 dias |
+O que eu considero **avançado** pode não ser avançado de fato, ou também pode ser considerado **fluente** para algumas pessoas. Sempre mantenha em mente que **saber** uma língua é saber se comunicar. Não precisa acertar todas as palavras. Basta ouvir, entender e conversar.
 
-Apesar de ser manjado, este é um excelente App para vocês praticarem diariamente. O sistema de gamificação deles (ou seja, nível, habilidades, etc) é muito legal e te faz querer “jogar” todos os dias. O App é bem completo e eu mesmo já usei bastante.
+Seus objetivos durante este tópico serão treinar:
 
-Recomendo você começar por aqui, afinal é uma das maneiras mais fáceis e divertidas de aprender algo.
+- Reading.
+- Grammar.
 
-#### 1.1.2 Teacher Paulo <a name="teacherpaulo"></a>
+<br>
 
-| Link | Preço | Desafio | Quantidade
-| :-----:|:-----:|:----------------------------:|:-------: |
-| [👀](https://www.youtube.com/user/MrTeacherPaulo) | Free 🤑 | Assistir os vídeos do canal | 15 vídeos |
+#### 3.1.1 <a name="duolingo">Duolingo </a>
 
-Tem um brasileiro no YouTube que tem um canal para te ensinar inglês (bem foda, diga-se de passagem). Já segui ele por muitos anos e assistia seus vídeos com uma certa frequência. Não vou mentir, geralmente era apenas por curiosidade, mas se vocês utilizarem o canal com fins didáticos vão evoluir muito em pouco tempo.
+Apesar de ser manjado, este é um excelente App para você praticar diariamente. Eles utilizam de um sistema de gamificação muito legal, que basicamente te incentiva a jogar todos os dias. O App é bem completo e eu mesmo já usei bastante.
 
-### **1.2 Intermediário** <a name="intermediario"></a>
-___
+Recomendo você começar por aqui, afinal é uma das maneiras mais **fáceis** e **divertidas** de aprender algo.
 
-Seu objetivo durante o Intermediário será: Aprimorar seu **reading & grammar**, treinar seu **listening & writing**.
+<br>
 
-#### 1.2.1 Faça o que você gosta, mas em inglês <a name="vocegosta"></a>
+<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
 
-| Preço | Desafio | Duração
-|:-----:|:----------------------------:|:-------: |
-| Free 🤑 | Consumir conteúdos em inglês | ∞ |
+|                       Link                       |              Tipos de conteúdo               |                    Desafios                    |  Recompensas  |
+| :----------------------------------------------: | :------------------------------------------: | :--------------------------------------------: | :-----------: |
+| <a href="https://www.duolingo.com/">Duolingo</a> | Do nível introdutório ao avançado em inglês. | Utilizar o App por pelo menos 30 dias seguidos | Inglês ⭐⭐⭐ |
 
-Você provavelmente consome conteúdos dos mais diversos lugares, e isso vai te ajudar nessa fase. Meu desafio pra você é: **ter cada vez mais contato com a língua inglesa** 🗣️
+<br>
 
-Ao chegar nesse nível, quero que todo ou quase todo conteúdo que você consumir seja em inglês. E ahh, não se assuste. Pode ter legenda em português 🤘
+#### 3.1.2 <a name="teacherpaulo">Teacher Paulo </a>
 
-O que me fez me identificar com a língua inglesa foi o fato que eu tenho contato com a língua desde os 5 anos de idade. Em 2002, quando eu tinha 5 anos de idade, eu jogava um jogo no PC chamado Total Annihilation. Este jogo foi lançado em 1997 e é um jogo de estratégia de robôs. É claro que eu não entendi ~~porra nenhuma~~ nada na época, mas ter o contato com a língua foi algo muito importante.
+O Paulo é um professor de inglês brasileiro que foi morar nos Estados Unidos. Ele começou seu canal no YouTube para poder ajudar iniciantes e pessoas que não tem uma condição financeira de pagar um curso. Acompanhei seus vídeos durante anos, para aprender mais sobre a cultura e curiosidades da língua inglesa.
 
-> “Sua mente aceita aquilo que lhe é familiar”.
+<br>
+
+<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+
+|                                   Link                                    |              Tipos de conteúdo               |                          Desafios                           |  Recompensas  |
+| :-----------------------------------------------------------------------: | :------------------------------------------: | :---------------------------------------------------------: | :-----------: |
+| <a href="https://www.youtube.com/user/MrTeacherPaulo">Professor Paulo</a> | Do nível introdutório ao avançado em inglês. | Assistir pelo menos 10 vídeos do canal do Paulo no YouTube. | Inglês ⭐⭐⭐ |
+
+<br>
+
+### 💛 3.2 <a name="intermediario">Level up! Intermediário alcançado :)</a>
+
+Como toda jornada do aprendizado, chegamos no meio da ponte. Bom, não é exatamente o meio, mas pode ser considerado um divisor de águas para muitas pessoas. O famoso "Inglês intermediário" é utilizado em diversos currículos, e talvez inclusive no seu. Não é motivo pra ter vergonha, e nem achar que é "pouco", afinal, você estudou muito para chegar aqui.
+
+Agora é minha vez de te ajudar a cruzar essa ponte 🌉. Seus objetivos durante este tópico serão aprimorar:
+
+- Reading;
+- Grammar.
+
+E treinar:
+
+- Listening;
+- Writing.
+
+<br>
+
+#### 3.2.1 <a name="vocegosta">Faça o que você gosta, mas em inglês</a>
+
+Você provavelmente é uma pessoa que consome conteúdos dos mais diversos lugares, e isso vai te ajudar nessa fase. Meu desafio paraa você é simples:
+
+- **Ter cada vez mais contato com a língua inglesa** 🗣️
+
+Ao chegar nesse nível, quero que todo ou quase todo conteúdo que você consumir seja em inglês. E ahh, não se assuste. Pode ter legenda em português. 🤘
+
+O que me fez me identificar com a língua inglesa foi o fato que eu tenho contato com a língua desde pequeno. Em 2002, quando eu tinha 5 anos de idade, eu jogava um jogo no PC chamado _Total Annihilation_. Este jogo foi lançado em 1997 e é um jogo de estratégia de robôs. É claro que eu não entendia ~~porra nenhuma~~ nada na época, mas ter o contato com a língua foi algo muito importante.
 
 Animes, músicas, jogos ou qualquer outro entretenimento, você **deve** consumir na língua inglesa. Se tiver oportunidade, faça-o.
 
-#### 1.2.2 Capitão: vamos submergir! <a name="submergir"></a>
+<br>
 
-| Preço | Desafio | Duração
-|:-----:|:----------------------------:|:-------: |
-| Free 🤑 | Mudar o idioma de tudo que você usa no seu cotidiano | ∞ |
+> Sua mente aceita aquilo que lhe é familiar.
 
-Você vai submergir mais ainda em seu aprendizado. Irá trocar as coisas mais comuns de seu cotidiano para o inglês.
+<br>
 
-    Ué, tipo o que? 🤔
+<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
 
-A partir de hoje, você irá trocar o idioma do seu: Celular, computador, e-mail, navegador do computador e o que mais tiver.
+| Link |                         Tipos de conteúdo                         |                           Desafios                           |  Recompensas  |
+| :--: | :---------------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
+|  🤷‍♂️  | Tudo aquilo que você gosta. Seus passa-tempos, paixões e hobbies. | Consumir conteúdos na língua inglesa por pelo menos 21 dias. | Inglês ⭐⭐⭐ |
 
-    Mas cara, e se der algum xabu e eu precisar resolver? 😨
+<br>
 
-    Pesquise em inglês. 🤭
+#### 3.2.2 <a name="desafios">Você gosta de desafios?</a>
 
-Ter estes tipos de experiência te permitem aprender novas palavras e frases, além de aumentar o seu vocabulário. No começo pode parecer mais difícil, mas hoje temos o **Google Translate** para te ajudar, então só vai!
+Se você está seguindo nossos desafios, aposto que é uma pessoa muito empenhada ~~e talvez meio competitiva~~. Isso vai te ajudar nessa etapa.
 
-### **1.3 Avançado** <a name="avancado"></a>
-___
+Você deve trocar as coisas mais comuns de seu cotidiano para o inglês.
 
-Seu objetivo duranto o avançado será: Aprimorar seu **grammar, reading, listening & writing**, treinar seu **speaking**.
+    Pessoa dev: Ué, tipo o que? 🤔
 
-#### 1.3.1 JamesESL <a name="james"></a>
+    Angelino: Celular, computador, e-mail, navegador do computador e o que mais tiver.
 
-| Link | Preço | Desafio | Quantidade
-| :-----:|:-----:|:----------------------------:|:-------: |
-| [👀](https://www.youtube.com/channel/UCwA7Aepp7nRUJNa8roQ-6Bw) | Free 🤑 | Assistir os vídeos do canal | 15 vídeos |
+    Pessoa dev: Mas cara, e se der algum xabu e eu precisar resolver? 😨
 
-Assim como o *Teacher Paulo*, temos outro cara bem ~~foda~~ bom no YouTube, mas dessa vez ele não é brasileiro.
+    Angelino: Pesquise em inglês. 🤭
 
-O James é um cara que ensina coisas diferentes no inglês, muitas das quais você não verá em nenhum cursinho. Sou seguidor até hoje, e sempre que posso vou dar uma olhada nos vídeos dele, é bem massa 😎
+Ter estes tipos de experiência te permitem aprender novas palavras e frases, além de aumentar o seu vocabulário. No começo pode parecer difícil, mas hoje temos o **Google Translate** para te ajudar, então só vai!
+
+<br>
+
+<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+
+| Link |                               Tipos de conteúdo                                |                                              Desafios                                              |  Recompensas  |
+| :--: | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------: |
+|  🤷‍♂️  | Dos mais diveros possíveis. Vai variar de quantas coisas você trocar o idioma. | Definir o inglês como a língua principal de configuração de **todos** os eletrônicos que você usa. | Inglês ⭐⭐⭐ |
+
+<br>
+
+### ❤️ 3.3 <a name="avancado">Chegamos do lado avançado da ilha, e agora?</a>
+
+E finalmente cruzamos essa ponte! 🎉🥳🎆
+
+Talvez você ainda não esteja se sentindo confiante para se auto-denominar **Nível avançado** no inglês, e está tudo bem. Vou te ajudar a conquistar essa confiança, e melhor ainda mais seu aprendizado!
+
+Seus objetivos durante este tópico serão aprimorar:
+
+- Grammar;
+- Listening;
+- Reading;
+- Writing.
+  Legenda? hahahaha
+  E treinar:
+
+- Speaking;
+
+<br>
+
+#### 3.3.1 <a name="james">JamesESL</a>
+
+Assim como o _Professor Paulo_, temos outro cara ~~foda~~ no YouTube, mas dessa vez ele não é brasileiro.
+
+O James é um professor que ensina coisas diferentes no inglês, muitas das quais você não verá em nenhum cursinho. Sou seguidor até hoje, e sempre que posso, vou dar uma olhada nos vídeos dele, é bem massa. 😎
 
 O conteúdo dele está no avançado porque é um conteúdo bem mais específico, que vai fazer total diferença caso você queira falar em inglês com outras pessoas sem receio algum.
 
 Você pode optar por assistir os vídeos com legenda em inglês. Mas nada de português... Tô de olho ein? 👀
 
-#### 1.3.2 Legenda? 😂👌 <a name="legenda"></a>
-Preço | Desafio | Quantidade
-|:-----:|:----------------------------:|:-------: |
-Free 🤑 | Assistir seriados em inglês sem legenda | 1 Temporada |
+<br>
 
- ~~A mamata acabou, talkey?~~ 👺
+<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+
+|                                 Link                                 |                          Tipos de conteúdo                           |                      Desafios                      |  Recompensas  |
+| :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------: | :-----------: |
+| [JamesESL](https://www.youtube.com/channel/UCwA7Aepp7nRUJNa8roQ-6Bw) | Conteúdo avançado, curiosidades e cotidiano de pessoas estrangeiras. | Assistir pelo menos 10 vídeos do James no YouTube. | Inglês ⭐⭐⭐ |
+
+<br>
+
+#### 3.3.2 <a name="legenda">Legenda? hahahaha</a>
+
+~~A mamata acabou, talkey?~~ 👺
 
 Brincadeiras à parte, se você chegou até aqui, legenda vai ser de boas pra você.
 
-Até hoje eu tenho alguns problemas de assistir séries e filmes sem legenda (~~porra~~, os atores e atrizes falam muito baixo, quase não dá pra ouvir), mas isso não quer dizer que eu não veja. Eu consumo muito conteúdo na **Twitch** e no **YouTube** sem legenda, porque já virou um hábito.
+Até hoje, eu tenho alguns problemas de assistir séries e filmes sem legenda (~~porra~~, os atores e atrizes falam muito baixo, quase não dá pra ouvir), mas isso não quer dizer que eu não veja. Eu consumo muito conteúdo na **Twitch** e no **YouTube** sem legenda, porque já virou um hábito.
 
-Recomendo você encontrar algo que goste para começar, assim vai praticar ainda mais seu **listening**. Em pouco tempo você nem irá mais fazer esforço para entender o que uma conversa em inglês.
+Recomendo você encontrar algo que goste para começar, assim vai praticar ainda mais seu **listening**. Em pouco tempo, você nem irá mais fazer esforço para entender uma conversa em inglês.
 
-Eu, por exemplo, gosto muito de **Hearthstone** e conteúdos variados na **Twitch**, então sempre estou assistindo algo interessante por lá, foi assim que melhorei muito em pouco tempo. #fikdik
+Eu, por exemplo, gosto muito de **Hearthstone** e conteúdos variados na **Twitch**, então sempre estou assistindo algo interessante por lá, foi assim que melhorei muito em pouco tempo.
 
 Outra dica valiosa que eu posso te dar é: **Veja seriados de comédia**.
 
-Um amigo que ensinou essa técnica, é deveras interessante. Eu já assisti **Two and a Half man** e **Ricky & Morty** sem legenda, foi uma experiência bem legal. Algumas pessoas gostam mais de **Frinds** ou outros tipos de série, apenas assista o que você mais gosta 🤗
+Esta técnica me foi ensinada por um amigo, e é deveras interessante. Eu já assisti **Two and a Half man** e **Ricky & Morty** sem legenda, foi uma experiência bem interessante. Algumas pessoas gostam mais de **Friends** ou outros tipos de série, apenas assista o que você mais gosta. 🤗
 
-### 1.4 **Next Level** <a name="nextlevel"></a>
-___
+<br>
+
+<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+
+| Link |               Tipos de conteúdo                |                         Desafios                         |  Recompensas  |
+| :--: | :--------------------------------------------: | :------------------------------------------------------: | :-----------: |
+|  🤷‍♂️  | Séries, filmes, streams, jogos, animes, etc... | Assistir pelo menos 1 temporada, em inglês e sem legenda | Inglês ⭐⭐⭐ |
+
+<br>
+
+### 💞 3.4 <a name="nextlevel">Your next level</a>
 
 #### <p style="font-size: 1.5rem" align="center">Congratulations 🎊🎉</p>
 
 I know that it wasn't easy, even more when you're "rushing" for your goal, but you did **GREAT**!
 
-Your final test will be the easiest of all (and the funnier as well). You task is: **Join me on a English Meetup** 🍻
+Your final test will be the easiest one (and the funnier as well). You task is: **Join me on a English Meetup** 🍻
 
-On our days we won't have many opportunities to speak in english with someone (even with brazilians), so participating on this is awesome!
+On our days we won't have many opportunities to speak in english with someone (even with brazilians), so this is a wonderful opportunity to practice.
 
 I can tell you that this method is very effective to maintaining your skills on point, and still allows you to do a English Interview, or even work with foreign people.
 
 Looks silly but only people that participate knows how this helps them to develop this skill.
 
-If you're shy or aren't feeling confident, talk to me. I'm one of the organizers and I can help you with that. I'll pay a beer (or a juice) to you. There's only great people, without preconception, sexism or other bad stuff. 😉
+If you're shy or aren't feeling confident, talk to me. I'm one of the organizers and I can help you with that and I'll pay you a beer (or a juice). There's only great people, without preconception, sexism or other bad stuff. 😉
 
 What're you waiting for? Let's go! 🍻🥳🔝
 
-| Link | Price | Challenge | Prize |
-| :-----:|:-----:|:----------------------------:|:-------: |
-| [👀](https://www.meetup.com/pt-BR/Sorocaba-English-Meetup/) | Cheap 💵 | Participate of a English Meetup | One beer 🍺 |
+<br>
+
+<h3 style="text-align: center;">Challenges and Prizes 💰🎉😎</h3>
+
+|                                  Link                                   |  Price   |            Challenges             |   Prizes    |
+| :---------------------------------------------------------------------: | :------: | :-------------------------------: | :---------: |
+| [English Meetup](https://www.meetup.com/pt-BR/Sorocaba-English-Meetup/) | Cheap 💵 | Participate of an English Meetup. | One beer 🍺 |
+
+<br>
+
+> "As pessoas não escolhem seus futuros; elas escolhem seus hábitos, e seus hábitos determinam seus futuros". F.M. Alexander.
