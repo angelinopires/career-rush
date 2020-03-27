@@ -1,4 +1,4 @@
-# <p style="text-align: center; margin-bottom: 0;">Career Rush</p>
+# <p align="center">Career Rush</p>
 
 ## 📝 Sumário
 
