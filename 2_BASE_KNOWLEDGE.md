@@ -1,9 +1,8 @@
-# Base Técnica
+# <p style="text-align: center; margin-bottom: 0;">💻 Seja muito bem-vinda ao módulo de Base Técnica do Career Rush 🖥️</p>
 
 ## 📝 Índice
 
 - [🌎 1. O Início da sua Jornada](#jornada)
-
   - [🛑 1.1 Uma pequena parada antes de prosseguir a viagem](#dicas)
     - [1.1.1 Dev.to](#devto)
     - [1.1.2 Artigos Recomendados](#dicas-artigos)
@@ -17,8 +16,6 @@
     - [1.4.1 Professor José de Assis](#jose)
 
 ---
-
-<br>
 
 ## 🌎 1. <a name="jornada">O Início da sua Jornada </a>
 
@@ -136,7 +133,7 @@ Tem dois pontos bem positivos que me fazem recomender ele aqui:
 
 <br>
 
-### 💻 1.3 <a name="linux">A magia dos terminais 👨‍💻👩‍💻</a>
+### 💻 1.3 <a name="linux">A magia dos terminais</a>
 
 Talvez esse seja um dos passos mais difíceis para a maioria das pessoas: usar Linux. 🖥️
 
