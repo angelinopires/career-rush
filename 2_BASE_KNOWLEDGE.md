@@ -1,4 +1,4 @@
-# <p style="text-align: center; margin-bottom: 0;">💻 Seja muito bem-vinda ao módulo de Base Técnica do Career Rush 🖥️</p>
+# <p align="center">💻 Seja muito bem-vinda ao módulo de Base Técnica do Career Rush 🖥️</p>
 
 ## 📝 Índice
 
@@ -53,7 +53,7 @@ Tudo que você quiser saber sobre desenvolvimento, você provavelmente irá enco
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 |                 Link                 |                   Tipos de conteúdo                   |                  Desafios                   |                  Recompensas                  |
 | :----------------------------------: | :---------------------------------------------------: | :-----------------------------------------: | :-------------------------------------------: |
@@ -102,7 +102,7 @@ A plataforma deles é gigante, com a maior parte do contéudo voltado ao Desenvo
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 |                                Link                                 |                                Desafios                                |                                             Recompensas                                             |
 | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
@@ -125,7 +125,7 @@ Tem dois pontos bem positivos que me fazem recomender ele aqui:
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 |                                  Link                                   |                         Desafios                          |                                          Recompensas                                           |
 | :---------------------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
@@ -169,7 +169,7 @@ Ele tem uma didática incrível, consegue te ensinar de maneira simples e práti
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 |                            Link                             |                    Tipos de conteúdo                     |                       Desafios                        |            Recompensas            |
 | :---------------------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: | :-------------------------------: |
@@ -213,7 +213,7 @@ Buscando incessantemente por conteúdos bons e disponíveis para vocês, acabei 
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 |                                                      Link                                                      |                  Tipos de conteúdo                   |                                  Desafios                                  |                    Recompensas                     |
 | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------: |

@@ -1,4 +1,4 @@
-# <p style="text-align: center; margin-bottom: 0;">🏃 Seja muito bem-vinda ao primeiro módulo do Career Rush 🏃‍♀️</p>
+# <p align="center">🏃 Seja muito bem-vinda ao primeiro módulo do Career Rush 🏃‍♀️</p>
 
 ## 📝 Índice
 
@@ -79,7 +79,7 @@ Recomendo você começar por aqui, afinal é uma das maneiras mais **fáceis** e
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 |                       Link                       |              Tipos de conteúdo               |                    Desafios                    |  Recompensas  |
 | :----------------------------------------------: | :------------------------------------------: | :--------------------------------------------: | :-----------: |
@@ -93,7 +93,7 @@ O Paulo é um professor de inglês brasileiro que foi morar nos Estados Unidos. 
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 |                                   Link                                    |              Tipos de conteúdo               |                          Desafios                           |  Recompensas  |
 | :-----------------------------------------------------------------------: | :------------------------------------------: | :---------------------------------------------------------: | :-----------: |
@@ -135,7 +135,7 @@ Animes, músicas, jogos ou qualquer outro entretenimento, você **deve** consumi
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 | Link |                         Tipos de conteúdo                         |                           Desafios                           |  Recompensas  |
 | :--: | :---------------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
@@ -161,7 +161,7 @@ Ter estes tipos de experiência te permitem aprender novas palavras e frases, al
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 | Link |                               Tipos de conteúdo                                |                                              Desafios                                              |  Recompensas  |
 | :--: | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------: |
@@ -173,7 +173,7 @@ Ter estes tipos de experiência te permitem aprender novas palavras e frases, al
 
 E finalmente cruzamos essa ponte! 🎉🥳🎆
 
-Talvez você ainda não esteja se sentindo confiante para se auto-denominar **Nível avançado** no inglês, e está tudo bem. Vou te ajudar a conquistar essa confiança, e melhor ainda mais seu aprendizado!
+Talvez você ainda não esteja se sentindo confiante para se auto-denominar **nível avançado** no inglês, e está tudo bem. Vou te ajudar a conquistar essa confiança, e melhor ainda mais seu aprendizado!
 
 Seus objetivos durante este tópico serão aprimorar:
 
@@ -181,8 +181,8 @@ Seus objetivos durante este tópico serão aprimorar:
 - Listening;
 - Reading;
 - Writing.
-  Legenda? hahahaha
-  E treinar:
+
+E treinar:
 
 - Speaking;
 
@@ -200,7 +200,7 @@ Você pode optar por assistir os vídeos com legenda em inglês. Mas nada de por
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 |                                 Link                                 |                          Tipos de conteúdo                           |                      Desafios                      |  Recompensas  |
 | :------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------: | :-----------: |
@@ -226,7 +226,7 @@ Esta técnica me foi ensinada por um amigo, e é deveras interessante. Eu já as
 
 <br>
 
-<h3 style="text-align: center;">Desafios e Recompensas 💰🎉😎</h3>
+<h3 align="center">Desafios e Recompensas 💰🎉😎</h3>
 
 | Link |               Tipos de conteúdo                |                         Desafios                         |  Recompensas  |
 | :--: | :--------------------------------------------: | :------------------------------------------------------: | :-----------: |
@@ -254,7 +254,7 @@ What're you waiting for? Let's go! 🍻🥳🔝
 
 <br>
 
-<h3 style="text-align: center;">Challenges and Prizes 💰🎉😎</h3>
+<h3 align="center">Challenges and Prizes 💰🎉😎</h3>
 
 |                                  Link                                   |  Price   |            Challenges             |   Prizes    |
 | :---------------------------------------------------------------------: | :------: | :-------------------------------: | :---------: |
