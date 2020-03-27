@@ -100,10 +100,9 @@ Estou reunindo conteúdo e produzindo insumos para um módulo sobre **Soft Skill
 
 ## <a name="contribuidoras">👥 Pessoas contribuidoras</a>
 
-- [Angelino Pires](@angelinopires)
-- [Alessandro Palmeira](@rulojuka)
-- [Lucas Marques](@LucasKauz)
-- [Luciana Barbosa](@lucianahb)
+- [Angelino Pires](https://github.com/angelinopires)
+- [Lucas Marques](https://github.com/LucasKauz)
+- [Luciana Barbosa](https://github.com/lucianahb)
 
 ---
 
