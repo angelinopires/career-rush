@@ -1,4 +1,4 @@
-# <p align="center">💻 Seja muito bem-vinda ao módulo de Base Técnica do Career Rush 🖥️</p>
+# <p align="center">💻 Seja muito bem-vinda ao módulo de Base Técnica 🖥️</p>
 
 ## 📝 Índice
 
@@ -77,8 +77,6 @@ Tudo que você quiser saber sobre desenvolvimento, você provavelmente irá enco
 
 ---
 
-<br>
-
 ### 🖤 1.2 <a name="logica">Lógica e Algoritmos - O Coração da Máquina</a>
 
 Apesar deste ser o primeiro tópico nos cursos técnicos e faculdades de tecnologia, a Lógica de Programação é muito subestimada.
@@ -141,21 +139,21 @@ Pra mim foi, pelo menos. Eu não entendia nada, se caso qualquer tutorial maluco
 
 Mas você deve estar se questionando:
 
-> É realmente necessário usar Linux? O que ele tem de superior sobre outros Sistemas Operacionais? 🤔
+    É realmente necessário usar Linux? O que ele tem de superior sobre outros Sistemas Operacionais? 🤔
 
-Bom, é simples... É um Sistema Operacional voltado para **Pessoas Desenvolvedoras**, assim como você. Pode parecer que você só faz as coisas através dos **terminais**, mas é mentira. 🤦‍♂️
+Bom, é simples... O Linux é um Sistema Operacional voltado para **Pessoas Desenvolvedoras**, assim como você. Pode parecer que você só faz as coisas através dos **terminais**, mas é mentira. 🤦‍♂️
 
 A distribuição Linux que eu uso, o **Ubuntu**, é bem bonita, simples e ótima para usuários iniciantes de Linux.
 
-No início da minha jornada, após várias pessoas amigas experientes na área me recomendarem, eu resolvi instalar o Linux na minha máquina pessoal.
+No início da minha jornada, após várias pessoas experientes na área me recomendarem, eu resolvi instalar o Linux na minha máquina pessoal.
 
 **Essa foi uma das melhores decisões que eu já tomei.**
 
-Saber operar essa maravilhosa ferramenta, faz total diferença no seu dia-a-dia. Hoje, usar Linux é uma parte essencial e comum do meu cotidiano. Hoje, no meu dia-a-dia de trabalho, faz total diferença eu saber lidar com essa ferramenta incrível que é o Linux.
+Isto porque os conhecimentos que eu adquiri operando essa ferramenta maravilhosa, fazem total diferença no meu cotidiano profissional.
 
-E assim como no Inglês, quanto mais você emergir, mais conhecimento você consegue absorver em um curto espaço de tempo. 🧠
+E assim como no Inglês, quanto mais você imergir, mais conhecimento você consegue absorver em um curto espaço de tempo. 🧠
 
-Mas mantenha a calma, o **Linux** é apenas uma ferramenta, e como toda ferramenta ela é feita para facilitar sua vida, mantenha isso em mente. 🤗
+Mas mantenha a calma, o **Linux** é apenas uma ferramenta, e como toda ferramenta, ela é feita para facilitar sua vida, mantenha isso em mente. 🤗
 
 <br>
 
@@ -191,11 +189,11 @@ Encontrei esse repositório sobre Linux através de um amigo meu. Este conteúdo
 
 ### 🎩 1.4 <a name="git">Git e a mágica do versionamento‍</a>
 
-Talvez o git seja uma das ferramentas mais essenciais ~~e com certeza a mais bonitinha~~ que a área de Desenvolvimento já teve. Nosso amado gatinho preto, é utilizado para fazer versionamento de **qualquer coisa** que seja feito por números binários (ou seja, basicamente tudo).
+Talvez o git seja uma das ferramentas mais essenciais que a área de Desenvolvimento já teve. Chega de versionamento na mão, chega de sofrimento, chega de hora extra na sexta-feira. Para quem ainda não conhece a ferramenta, o git é utilizado para fazer versionamento de **qualquer coisa** que seja feito por números binários (ou seja, basicamente tudo na internet).
 
 Vamos facilitar, pense no versionamento de arquivos que você já fez/faz em arquivos Word e Excel ~~("Trabalho Final.word"... "Trabalho Final Agora vai.word"... Trabalho Final Mesmoooo.word"...)~~, é a mesma coisa. A diferença, é que o **git** possibilita um controle muito mais preciso e fácil do que você deseja guardar.
 
-Ele é utilizado massivamente nas empresas hoje, para armazenamento e versionamento do código de seus desenvolvedores.
+Ele é utilizado massivamente nas empresas hoje, para armazenamento e versionamento do código de suas pessoas desenvolvedoras.
 
 E apenas um esclarecimento: **git não é Github**.
 
